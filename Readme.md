@@ -6,7 +6,7 @@ It's a simple project to better understand how to work with youtube players
 
 - `Using React Native with Expo`: The expo makes setting up the environment easy;
 - `Use the library React Native Youtube-iframe`: A wrapper of the **Youtube-iframe API** built for react native.
- -   ✅ Works seamlessly on both ios and android platforms
+-   ✅ Works seamlessly on both ios and android platforms
 -   ✅ Does not rely on the native youtube service on android (prevents unexpected crashes, works on phones without the youtube app)
 -   ✅ Uses the webview player which is known to be more stable compared to the native youtube app
 -   ✅ Access to a vast API provided through the iframe youtube API
